@@ -1,4 +1,8 @@
 12
+<<<<<<< HEAD
 123fi123ffd123ffe123fdsasfasdfdasfdasfdasfafda
+=======
+fi123ffd123ffe1232443233
+>>>>>>> 600179d36b457bfcceeec963c1162b8dc6bb0f2a
 123
 
